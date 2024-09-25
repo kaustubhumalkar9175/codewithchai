@@ -17,5 +17,5 @@ let state;
 
 // object
 
-console.log(typeof );
+console.log(typeof name);
 
